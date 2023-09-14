@@ -1,2 +1,2 @@
 # LucaPower
-Descripción personal
+<b>Descripción personal</b>
